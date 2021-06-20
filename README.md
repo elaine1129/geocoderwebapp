@@ -2,7 +2,7 @@
 
 * [Project description](#project-description)
 * [Framework](#framework)
-* [Libraries](#libraries)
+* [Dependencies](#dependencies)
 * [Screenshots](#screenshots)
 
   
@@ -25,11 +25,10 @@ It should be able to:
 
 Flask
 
-## Libraries
+## Dependencies
 
 - Geopy
 - pandas
-- datetime
 
 ## Screenshots
 
