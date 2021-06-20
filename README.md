@@ -1,9 +1,8 @@
 # TABLE OF CONTENT
 
 * [Project description](#project-description)
-
 * [Framework](#framework)
-
+* [Libraries](#libraries)
 * [Screenshots](#screenshots)
 
   
@@ -25,6 +24,12 @@ It should be able to:
 ## Framework
 
 Flask
+
+## Libraries
+
+- Geopy
+- pandas
+- datetime
 
 ## Screenshots
 
